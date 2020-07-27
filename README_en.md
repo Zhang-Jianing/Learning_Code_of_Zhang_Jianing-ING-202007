@@ -7,7 +7,7 @@ I have translated some important Chinese words in this repository.
 |基础代码发散|Basic Code Divergence|
 |简易乘法竖式|Simple Vertical Multiplication|
 |排序|Sort|
-|选择排序|Select Sort|
+|选择排序|Selection Sort|
 |冒泡排序|Bubble Sort|
 |归并排序|Merge Sort|
 |快速排序|Quick Sort|
